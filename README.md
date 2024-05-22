@@ -1,7 +1,7 @@
 # terraforms_js_playground
 
 ## Install
-```npm intall```
+```npm install```
 
 ## Generate Terraforms
 ```npm run generate```
