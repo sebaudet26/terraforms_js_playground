@@ -5,3 +5,6 @@
 
 ## Generate Terraforms
 ```npm run generate```
+
+## Missing
+- Proper handling of fonts
